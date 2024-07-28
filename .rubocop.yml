@@ -58,3 +58,6 @@ Documentation:
 Layout/LineLength:
   Exclude:
     - 'spec/**/*'
+Metrics/BlockLength:
+  Exclude:
+    - 'spec/**/*'
