@@ -1,8 +1,12 @@
 # frozen_string_literal: true
 
 require_relative "npb_players_directory/version"
+require "npb_players_directory/baystars"
 
-module NpbPlayersDirectory
+module Npb
   class Error < StandardError; end
-  # Your code goes here...
+
+  def self.baystars
+    NpbPlayersDirectory::Baystars.new
+  end
 end

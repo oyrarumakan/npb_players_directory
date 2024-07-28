@@ -1,0 +1,13 @@
+module NpbPlayersDirectory
+  class Baystars
+    YAML_PATH: String
+
+    @yaml: YAML
+
+    def list_name: (Symbol lang) -> Array[String]
+
+    def load_yaml: -> YAML
+
+    def name_by_uniform_number: (Integer number) -> String
+  end
+end
