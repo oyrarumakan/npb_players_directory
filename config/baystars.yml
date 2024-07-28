@@ -2,425 +2,425 @@
 1:
   name_ja: 東 克樹
   name_en: KATSUKI AZUMA
-  uniform_number: 11
+  uniform_number: '11'
   position: pitcher
 2:
   name_ja: 伊勢 大夢
   name_en: HIROMU ISE
-  uniform_number: 13
+  uniform_number: '13'
   position: pitcher
 3:
   name_ja: 石田 健大
   name_en: KENTA ISHIDA
-  uniform_number: 14
+  uniform_number: '14'
   position: pitcher
 4:
   name_ja: 徳山 壮磨
   name_en: SOUMA TOKUYAMA
-  uniform_number: 15
+  uniform_number: '15'
   position: pitcher
 5:
   name_ja: 大貫 晋一
   name_en: SHINICHI OHNUKI
-  uniform_number: 16
+  uniform_number: '16'
   position: pitcher
 6:
   name_ja: 三嶋 一輝
   name_en: KAZUKI MISHIMA
-  uniform_number: 17
+  uniform_number: '17'
   position: pitcher
 7:
   name_ja: 小園 健太
   name_en: KENTA KOZONO
-  uniform_number: 18
+  uniform_number: '18'
   position: pitcher
 8:
   name_ja: 山﨑 康晃
   name_en: YASUAKI YAMASAKI
-  uniform_number: 19
+  uniform_number: '19'
   position: pitcher
 9:
   name_ja: 坂本 裕哉
   name_en: YUYA SAKAMOTO
-  uniform_number: 20
+  uniform_number: '20'
   position: pitcher
 10:
   name_ja: 入江 大生
   name_en: TAISEI IRIE
-  uniform_number: 22
+  uniform_number: '22'
   position: pitcher
 11:
   name_ja: 吉野 光樹
   name_en: TERUKI YOSHINO
-  uniform_number: 24
+  uniform_number: '24'
   position: pitcher
 12:
   name_ja: 濵口 遥大
   name_en: HARUHIRO HAMAGUCHI
-  uniform_number: 26
+  uniform_number: '26'
   position: pitcher
 13:
   name_ja: 上茶谷 大河
   name_en: TAIGA KAMICHATANI
-  uniform_number: 27
+  uniform_number: '27'
   position: pitcher
 14:
   name_ja: 三浦 銀二
   name_en: GINJI MIURA
-  uniform_number: 30
+  uniform_number: '30'
   position: pitcher
 15:
   name_ja: 松本 凌人
   name_en: RYOTO MATSUMOTO
-  uniform_number: 34
+  uniform_number: '34'
   position: pitcher
 16:
   name_ja: 橋本 達弥
   name_en: TATSUYA HASHIMOTO
-  uniform_number: 35
+  uniform_number: '35'
   position: pitcher
 17:
   name_ja: 森下 瑠大
   name_en: RYUDAI MORISHITA
-  uniform_number: 36
+  uniform_number: '36'
   position: pitcher
 18:
   name_ja: 森 唯斗
   name_en: YUITO MORI
-  uniform_number: 38
+  uniform_number: '38'
   position: pitcher
 19:
   name_ja: 松本 隆之介
   name_en: RYUNOSUKE MATSUMOTO
-  uniform_number: 40
+  uniform_number: '40'
   position: pitcher
 20:
   name_ja: 佐々木 千隼
   name_en: CHIHAYA SASAKI
-  uniform_number: 41
+  uniform_number: '41'
   position: pitcher
 21:
   name_ja: A.ジャクソン
   name_en: ANDRE JACKSON
-  uniform_number: 42
+  uniform_number: '42'
   position: pitcher
 22:
   name_ja: 深沢 鳳介
   name_en: OSUKE FUKAZAWA
-  uniform_number: 43
+  uniform_number: '43'
   position: pitcher
 23:
   name_ja: 森原 康平
   name_en: KOHEI MORIHARA
-  uniform_number: 45
+  uniform_number: '45'
   position: pitcher
 24:
   name_ja: 石川 達也
   name_en: TATSUYA ISHIKAWA
-  uniform_number: 46
+  uniform_number: '46'
   position: pitcher
 25:
   name_ja: 京山 将弥
   name_en: MASAYA KYOYAMA
-  uniform_number: 48
+  uniform_number: '48'
   position: pitcher
 26:
   name_ja: J.B.ウェンデルケン
   name_en: J.B. WENDELKEN
-  uniform_number: 49
+  uniform_number: '49'
   position: pitcher
 27:
   name_ja: 中川 颯
   name_en: HAYATE NAKAGAWA
-  uniform_number: 53
+  uniform_number: '53'
   position: pitcher
 28:
   name_ja: 石田 裕太郎
   name_en: YUTARO ISHIDA
-  uniform_number: 54
+  uniform_number: '54'
   position: pitcher
 29:
   name_ja: 髙田 琢登
   name_en: TAKUTO TAKADA
-  uniform_number: 56
+  uniform_number: '56'
   position: pitcher
 30:
   name_ja: 平良 拳太郎
   name_en: KENTARO TAIRA
-  uniform_number: 59
+  uniform_number: '59'
   position: pitcher
 31:
   name_ja: R.ウィック
   name_en: ROWAN WICK
-  uniform_number: 62
+  uniform_number: '62'
   position: pitcher
 32:
   name_ja: 中川 虎大
   name_en: KOH NAKAGAWA
-  uniform_number: 64
+  uniform_number: '64'
   position: pitcher
 33:
   name_ja: 宮城 滝太
   name_en: DAITA MIYAGI
-  uniform_number: 65
+  uniform_number: '65'
   position: pitcher
 34:
   name_ja: A.ケイ
   name_en: ANTHONY KAY
-  uniform_number: 69
+  uniform_number: '69'
   position: pitcher
 35:
   name_ja: 堀岡 隼人
   name_en: HAYATO HORIOKA
-  uniform_number: 92
+  uniform_number: '92'
   position: pitcher
 36:
   name_ja: Y.ディアス
   name_en: YOFREC DIAZ
-  uniform_number: 93
+  uniform_number: '93'
   position: pitcher
 37:
   name_ja: 草野 陽斗
   name_en: HARUTO KUSANO
-  uniform_number: 101
+  uniform_number: '101'
   position: pitcher
 38:
   name_ja: 清水 麻成
   name_en: MANATO SHIMIZU
-  uniform_number: 102
+  uniform_number: '102'
   position: pitcher
 39:
   name_ja: W. モロン
   name_en: WILNY MORON
-  uniform_number: 105
+  uniform_number: '105'
   position: pitcher
 40:
   name_ja: 渡辺 明貴
   name_en: AKI WATANABE
-  uniform_number: 106
+  uniform_number: '106'
   position: pitcher
 41:
   name_ja: H.マルセリーノ
   name_en: HANSEL MARCELINO
-  uniform_number: 107
+  uniform_number: '107'
   position: pitcher
 42:
   name_ja: 今野 瑠斗
   name_en: RYUTO KONNO
-  uniform_number: 108
+  uniform_number: '108'
   position: pitcher
 43:
   name_ja: A.マルティネス
   name_en: ALEXANDER MARTINEZ
-  uniform_number: 110
+  uniform_number: '110'
   position: pitcher
 44:
   name_ja: 庄司 陽斗
   name_en: HARUTO SHOJI
-  uniform_number: 122
+  uniform_number: '122'
   position: pitcher
 45:
   name_ja: 松尾 汐恩
   name_en: SHION MATSUO
-  uniform_number: 5
+  uniform_number: '5'
   position: catcher
 46:
   name_ja: 戸柱 恭孝
   name_en: YASUTAKA TOBASHIRA
-  uniform_number: 10
+  uniform_number: '10'
   position: catcher
 47:
   name_ja: 伊藤 光
   name_en: HIKARU ITOH
-  uniform_number: 29
+  uniform_number: '29'
   position: catcher
 48:
   name_ja: 益子 京右
   name_en: KYOSUKE MASHIKO
-  uniform_number: 32
+  uniform_number: '32'
   position: catcher
 49:
   name_ja: 山本 祐大
   name_en: YUUDAI YAMAMOTO
-  uniform_number: 50
+  uniform_number: '50'
   position: catcher
 50:
   name_ja: 東妻 純平
   name_en: JUNPEI AZUMA
-  uniform_number: 57
+  uniform_number: '57'
   position: catcher
 51:
   name_ja: 上甲 凌大
   name_en: RYOTA JOKO
-  uniform_number: 66
+  uniform_number: '66'
   position: catcher
 52:
   name_ja: 九鬼 隆平
   name_en: RYUHEI KUKI
-  uniform_number: 116
+  uniform_number: '116'
   position: catcher
 53:
   name_ja: 近藤 大雅
   name_en: TAIGA KONDO
-  uniform_number: 130
+  uniform_number: '130'
   position: catcher
 54:
   name_ja: 林 琢真
   name_en: TAKUMA HAYASHI
-  uniform_number: 0
+  uniform_number: '00'
   position: infielder
 55:
   name_ja: 牧 秀悟
   name_en: SHUGO MAKI
-  uniform_number: 2
+  uniform_number: '2'
   position: infielder
 56:
   name_ja: T.オースティン
   name_en: TYLER AUSTIN
-  uniform_number: 3
+  uniform_number: '3'
   position: infielder
 57:
   name_ja: 森 敬斗
   name_en: KEITO MORI
-  uniform_number: 6
+  uniform_number: '6'
   position: infielder
 58:
   name_ja: 大和
   name_en: YAMATO
-  uniform_number: 9
+  uniform_number: '9'
   position: infielder
 59:
   name_ja: 柴田 竜拓
   name_en: TATSUHIRO SHIBATA
-  uniform_number: 31
+  uniform_number: '31'
   position: infielder
 60:
   name_ja: 西浦 直亨
   name_en: NAOMICHI NISHIURA
-  uniform_number: 39
+  uniform_number: '39'
   position: infielder
 61:
   name_ja: 石上 泰輝
   name_en: TAIKI ISHIKAMI
-  uniform_number: 44
+  uniform_number: '44'
   position: infielder
 62:
   name_ja: 宮﨑 敏郎
   name_en: TOSHIRO MIYAZAKI
-  uniform_number: 51
+  uniform_number: '51'
   position: infielder
 63:
   name_ja: 井上 絢登
   name_en: KENTO INOUE
-  uniform_number: 55
+  uniform_number: '55'
   position: infielder
 64:
   name_ja: 知野 直人
   name_en: NAOTO CHINO
-  uniform_number: 60
+  uniform_number: '60'
   position: infielder
 65:
   name_ja: 西巻 賢二
   name_en: KENJI NISHIMAKI
-  uniform_number: 67
+  uniform_number: '67'
   position: infielder
 66:
   name_ja: 京田 陽太
   name_en: YOTA KYODA
-  uniform_number: 98
+  uniform_number: '98'
   position: infielder
 67:
   name_ja: M.フォード
   name_en: MIKE FORD
-  uniform_number: 99
+  uniform_number: '99'
   position: infielder
 68:
   name_ja: 蓮
   name_en: REN
-  uniform_number: 100
+  uniform_number: '100'
   position: infielder
 69:
   name_ja: 小笠原 蒼
   name_en: SOU OGASAWARA
-  uniform_number: 125
+  uniform_number: '125'
   position: infielder
 70:
   name_ja: 粟飯原 龍之介
   name_en: RYUNOSUKE AIBARA
-  uniform_number: 133
+  uniform_number: '133'
   position: infielder
 71:
   name_ja: 小深田 大地
   name_en: DAICHI KOBUKATA
-  uniform_number: 144
+  uniform_number: '144'
   position: infielder
 72:
   name_ja: 高見澤 郁魅
   name_en: IKUMI TAKAMIZAWA
-  uniform_number: 193
+  uniform_number: '193'
   position: infielder
 73:
   name_ja: 大田 泰示
   name_en: TAISHI OHTA
-  uniform_number: 0
+  uniform_number: '0'
   position: outfielder
 74:
   name_ja: 桑原 将志
   name_en: MASAYUKI KUWAHARA
-  uniform_number: 1
+  uniform_number: '1'
   position: outfielder
 75:
   name_ja: 度会 隆輝
   name_en: RYUKI WATARAI
-  uniform_number: 4
+  uniform_number: '4'
   position: outfielder
 76:
   name_ja: 佐野 恵太
   name_en: KEITA SANO
-  uniform_number: 7
+  uniform_number: '7'
   position: outfielder
 77:
   name_ja: 神里 和毅
   name_en: KAZUKI KAMIZATO
-  uniform_number: 8
+  uniform_number: '8'
   position: outfielder
 78:
   name_ja: 筒香 嘉智
   name_en: YOSHITOMO TSUTSUGOH
-  uniform_number: 25
+  uniform_number: '25'
   position: outfielder
 79:
   name_ja: 勝又 温史
   name_en: ATSUSHI KATSUMATA
-  uniform_number: 28
+  uniform_number: '28'
   position: outfielder
 80:
   name_ja: 武田 陸玖
   name_en: RIKU TAKEDA
-  uniform_number: 33
+  uniform_number: '33'
   position: outfielder
 81:
   name_ja: 楠本 泰史
   name_en: TAISHI KUSUMOTO
-  uniform_number: 37
+  uniform_number: '37'
   position: outfielder
 82:
   name_ja: 梶原 昂希
   name_en: KOUKI KAJIWARA
-  uniform_number: 58
+  uniform_number: '58'
   position: outfielder
 83:
   name_ja: 蝦名 達夫
   name_en: TATSUO EBINA
-  uniform_number: 61
+  uniform_number: '61'
   position: outfielder
 84:
   name_ja: 関根 大気
   name_en: TAIKI SEKINE
-  uniform_number: 63
+  uniform_number: '63'
   position: outfielder
 85:
   name_ja: 村川 凪
   name_en: NAGI MURAKAWA
-  uniform_number: 103
+  uniform_number: '103'
   position: outfielder

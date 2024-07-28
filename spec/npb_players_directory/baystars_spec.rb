@@ -27,17 +27,17 @@ describe "baystars" do
   context "get_by_uniform_number" do
     context "引数に11を指定" do
       it "「東克樹」が返ること" do
-        expect(@baystars.name_by_uniform_number(11)).to(eq "東 克樹")
+        expect(@baystars.name_by_uniform_number("11")).to(eq "東 克樹")
       end
     end
     context "引数に50を指定" do
       it "「山本祐大」が返ること" do
-        expect(@baystars.name_by_uniform_number(50)).to(eq "山本 祐大")
+        expect(@baystars.name_by_uniform_number("50")).to(eq "山本 祐大")
       end
     end
     context "引数に1000を指定" do
       it "選手名が返らないこと" do
-        expect(@baystars.name_by_uniform_number(1000)).to(eq "No player found for number 1000")
+        expect(@baystars.name_by_uniform_number("1000")).to(eq "No player found for number 1000")
       end
     end
   end
