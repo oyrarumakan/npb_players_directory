@@ -1,0 +1,5 @@
+module NpbPlayersDirectory
+  class Baystars
+    def list_name: -> untyped
+  end
+end
