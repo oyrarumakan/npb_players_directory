@@ -9,3 +9,10 @@
 
 # rspec failure tracking
 .rspec_status
+
+# ignore editor's setting file
+.idea
+.vscode
+
+# ignore Gemfile.lock
+Gemfile.lock
