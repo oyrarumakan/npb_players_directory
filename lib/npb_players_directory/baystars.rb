@@ -1,15 +1,28 @@
 require "yaml"
 
-class Baystars
-  # 選手一覧を返す
-  # @param [Symbol] lang
-  # @return [Object]
-  def list_name(lang = :ja)
-    target_key = lang == :ja ? "name_ja" : "name_en"
+module NpbPlayersDirectory
+  class Baystars
+    YAML_PATH = "../../config/baystars.yml".freeze
+    def initialize
+      @yaml = load_yaml
+    end
 
-    yaml_path = File.expand_path("../../config/baystars.yml", __dir__)
-    target_yaml = YAML.load_file(yaml_path)
+    # 選手一覧を返す
+    # 定義したlangによって和名と英名を切り替え
+    def list_name(lang = :ja)
+      target_key = lang == :ja ? "name_ja" : "name_en"
+      @yaml.values.map { |player| player[target_key] }
+    end
 
-    p(target_yaml.values.map { |player| player[target_key] })
+    # 背番号から選手名を返す
+    def name_by_uniform_number(number)
+      player = @yaml.values.find { |p| p["uniform_number"] == number }
+      player ? player["name_ja"] : "No player found for number #{number}"
+    end
+
+    def load_yaml
+      yaml_path = File.expand_path(YAML_PATH, __dir__)
+      YAML.load_file(yaml_path)
+    end
   end
 end
