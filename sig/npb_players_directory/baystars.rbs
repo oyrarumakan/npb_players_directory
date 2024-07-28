@@ -8,6 +8,6 @@ module NpbPlayersDirectory
 
     def load_yaml: -> YAML
 
-    def name_by_uniform_number: (Integer number) -> String
+    def name_by_uniform_number: (String number) -> String
   end
 end
