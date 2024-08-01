@@ -3,12 +3,14 @@ describe "dragons" do
 
   context "list_name" do
     expected_response_ja = [
-      "大勢", "西舘 勇陽", "菅野 智之", "山﨑 伊織", "戸郷 翔征", "今村 信貴", "高橋 礼", "グリフィン", "近藤 大亮", "赤星 優志", "鈴木 康平", "ケラー", "馬場 皐輔", "中川 皓太", "畠 世周", "又木 鉄平", "森田 駿哉", "田中 千晴", "バルドナード", "伊藤 優輔", "高梨 雄平", "直江 大輔", "石田 隼都", "髙橋 優貴", "船迫 大雅", "横川 凱", "泉 圭輔", "大江 竜聖", "メンデス", "平内 龍太", "代木 大和", "山田 龍聖", "堀田 賢慎", "松井 颯", "菊地 大稀", "井上 温大", "京本 眞", "笠島 尚樹", "三浦 克也", "川嵜 陽仁", "千葉 隆広", "木下 幹也", "園田 純規", "戸田 懐生", "小沼 健太", "田村 朋輝", "吉村 優聖歩", "富田 龍", "山﨑 友輔", "森本 哲星", "ルシアーノ", "黄 錦豪", "鴨打 瑛二", "花田 侑樹", "小林 誠司", "大城 卓三", "岸田 行倫", "郡 拓也", "山瀬 慎之助", "喜多 隆介", "坂本 勇人", "大津 綾也", "亀田 啓太", "前田 研輝", "萩原 哲", "湯浅 大", "増田 大輝", "吉川 尚輝", "門脇 誠", "坂本 勇人", "岡本 和真", "泉口 友汰", "モンテス", "中山 礼都", "秋広 優人", "菊田 拡和", "増田 陸", "中田 歩夢", "ウレーニャ", "加藤 廉", "村山 源", "田上 優弥", "宇都宮 葵星", "相澤 白虎", "岡本 大翔", "北村 流音", "長野 久義", "丸 佳浩", "萩尾 匡也", "梶谷 隆幸", "立岡 宗一郎", "岡田 悠希", "ヘルナンデス", "重信 慎之介", "佐々木 俊輔", "オコエ 瑠偉", "浅野 翔吾", "若林 楽人", "鈴木 大和", "笹原 操希", "ティマ", "三塚 琉生", "平山 功太", "大城 元", "舟越 秀虎"
+      "根尾 昂", "小笠原 慎之介", "田島 慎二", "橋本 侑樹", "草加 勝", "岩嵜 翔", "柳 裕也", "梅津 晃大", "髙橋 宏斗", "涌井 秀章", "大野 雄大", "福谷 浩司", "石森 大誠", "森 博人", "仲地 礼亜", "祖父江 大輔", "福 敬登", "福田 幸之介", "松葉 貴大", "勝野 昌慶", "梅野 雄吾", "砂田 毅樹", "土生 翔太", "清水 達也", "藤嶋 健人", "齋藤 綱記", "福島 章太", "上田 洸太朗", "松木平 優太", "松山 晋也", "ウンベルト・メヒア", "ライデル・マルティネス", "マイケル・フェリス", "加藤 竜馬", "竹内 龍臣", "フランク・アルバレス", "加藤 翼", "垣越 建伸", "石川 翔", "岡田 俊哉", "野中 天翔", "森山 暁生", "近藤 廉", "菊田 翔友", "木下 拓哉", "宇佐見 真吾", "味谷 大誠", "加藤 匠馬", "山浅 龍之介", "石橋 康太", "日渡 騰輝", "田中 幹也", "高橋 周平", "村松 開人", "中田 翔", "中島 宏之", "石川 昂弥", "津田 啓史", "辻本 倫太郎", "石垣 雅海", "龍空（土田龍空）", "山本 泰寛", "ダヤン・ビシエド", "福永 裕基", "クリスチャン・ロドリゲス", "樋口 正修", "オルランド・カリステ", "星野 真生", "川上 理偉", "尾田 剛樹", "岡林 勇希", "鵜飼 航丞", "大島 洋平", "三好 大倫", "濱 将乃介", "ブライト 健太", "川越 誠司", "上林 誠知", "加藤 翔平", "後藤 駿太", "細川 成也", "板山 祐太郎", "アレックス・ディカーソン", "福元 悠真", "カルロス・モニエル"
     ]
+
     # noinspection SpellCheckingInspection
     expected_response_en = [
-      "TAISEI OTA", "YUHI NISHIDATE", "TOMOYUKI SUGANO", "IORI YAMASAKI", "SHOSEI TOGO", "NOBUTAKA IMAMURA", "REI TAKAHASHI", "FOSTER GRIFFIN", "TAISUKE KONDOH", "YUJI AKAHOSHI", "KOHEI SUZUKI", "KYLE KELLER", "KOSUKE BABA", "KOTA NAKAGAWA", "SEISHU HATAKE", "TEPPEI MATAKI", "SHUNYA MORITA", "CHIHARU TANAKA", "ALBERTO BALDONADO", "YUSUKE ITOH", "YUHEI TAKANASHI", "DAISUKE NAOE", "HAYATO ISHITA", "YUKI TAKAHASHI", "HIROMASA FUNABASAMA", "KAI YOKOGAWA", "KEISUKE IZUMI", "RYUSEI OHE", "YOHANDER MENDEZ", "RYUTA HEINAI", "YAMATO SHIROKI", "RYUSEI YAMADA", "KENSHIN HOTTA", "HAYATE MATSUI", "TAIKI KIKUCHI", "HARUTO INOUE", "MAKOTO KYOMOTO", "NAOKI KASASHIMA", "KATSUNARI MIURA", "HARUTO KAWASAKI", "TAKAHIRO CHIBA", "MOTOYA KINOSHITA", "ATSUKI SONODA", "NATSUKI TODA", "KENTA ONUMA", "TOMOKI TAMURA", "YUSEFU YOSHIMURA", "RYU TOMIDA", "YUSUKE YAMASAKI", "TESSEI MORIMOTO", "ELVIS LUCIANO", "CHIN-HAO HUANG", "EIJI KAMOUCHI", "YUKI HANADA", "SEIJI KOBAYASHI", "TAKUMI OHSHIRO", "YUKINORI KISHIDA", "TAKUYA KOHRI", "SHINNOSUKE YAMASE", "RYUSUKE KITA", "HAYATO SAKAMOTO", "RYOYA OHTSU", "KEITA KAMEDA", "KENKI MAEDA", "TETSU HAGIWARA", "DAI YUASA", "DAIKI MASUDA", "NAOKI YOSHIKAWA", "MAKOTO KADOWAKI", "HAYATO SAKAMOTO", "KAZUMA OKAMOTO", "YUTA IZUGUCHI", "COCO MONTES", "RAITO NAKAYAMA", "YUTO AKIHIRO", "HIROKAZU KIKUTA", "RIKU MASUDA", "AYUMU NAKATA", "ESTAMY URENA", "REN KATOH", "GEN MURAYAMA", "YUYA TANOUE", "KISARA UTSUNOMIYA", "HAKUTO AIZAWA", "HIROTO OKAMOTO", "RIO KITAMURA", "HISAYOSHI CHONO", "YOSHIHIRO MARU", "MASAYA HAGIO", "TAKAYUKI KAJITANI", "SOICHIRO TATEOKA", "YUKI OKADA", "ELIER HERNANDEZ", "SHINNOSUKE SHIGENOBU", "SHUNSUKE SASAKI", "LOUIS OKOYE", "SHOGO ASANO", "GAKUTO WAKABAYASHI", "YAMATO SUZUKI", "MISAKI SASAHARA", "JULIAN TIMA", "RUI MITSUKA", "KOTA HIRAYAMA", "GEN OHSHIRO", "HIDETORA FUNAKOSHI"
+      "AKIRA NEO", "SHINNOSUKE OGASAWARA", "SHINJI TAJIMA", "YUKI HASHIMOTO", "SHO KUSAKA", "SHO IWASAKI", "YUYA YANAGI", "KODAI UMETSU", "HIROTO TAKAHASHI", "HIDEAKI WAKUI", "YUDAI OHNO", "KOJI FUKUTANI", "TAISEI ISHIMORI", "HIROTO MORI", "REIA NAKACHI", "DAISUKE SOBUE", "HIROTO FUKU", "KONOSUKE FUKUDA", "TAKAHIRO MATSUBA", "AKIYOSHI KATSUNO", "YUGO UMENO", "YOSHIKI SUNADA", "SHOHTA HABU", "TATSUYA SHIMIZU", "KENTO FUJISHIMA", "KOHKI SAITOH", "SHOTA FUKUSHIMA", "KOTARO UEDA", "YUTA MATSUKIHIRA", "SHINYA MATSUYAMA", "HUMBERTO MEJIA", "RAIDEL MARTINEZ", "MICHAEL FELIZ", "RYUMA KATO", "RYUSHIN TAKEUCHI", "FRANK ALVAREZ", "TSUBASA KATO", "KENSHIN KAKIGOSHI", "SHO ISHIKAWA", "TOSHIYA OKADA", "TENTO NONAKA", "AKIO MORIYAMA", "REN KONDO", "TOWA KIKUTA", "TAKUYA KINOSHITA", "SHINGO USAMI", "TAISEI MIYA", "TAKUMA KATOH", "RYUNOSUKE YAMAASA", "KOTA ISHIBASHI", "TOUKI HIWATARI", "MIKIYA TANAKA", "SHUHEI TAKAHASHI", "KAITO MURAMATSU", "SHO NAKATA", "HIROYUKI NAKAJIMA", "TAKAYA ISHIKAWA", "KEISHI TSUDA", "RINTARO TSUJIMOTO", "MASAMI ISHIGAKI", "RYUKU TSUCHIDA", "YASUHIRO YAMAMOTO", "DAYAN VICIEDO", "HIROKI FUKUNAGA", "CHRISTIAN RODRIGUEZ", "SEISHU HIGUCHI", "ORLANDO CALIXTE", "MAO HOSHINO", "RII KAWAKAMI", "GOUKI ODA", "YUKI OKABAYASHI", "KOSUKE UKAI", "YOHEI OHSHIMA", "HIRONORI MIYOSHI", "SHONOSUKE HAMA", "KENTA BRIGHT", "SEIJI KAWAGOE", "SEIJI UEBAYASHI", "SHOHEI KATOH", "SHUNTA GOTOH", "SEIYA HOSOKAWA", "YUTARO ITAYAMA", "ALEX DICKERSON", "YUMA FUKUMOTO", "CARLOS MONIER"
     ]
+
     context "引数無しで呼び出し" do
       it "ドラゴンズの選手名を日本語で返すこと" do
         expect(@dragons.list_name).to eq expected_response_ja
@@ -27,13 +29,13 @@ describe "dragons" do
   end
   context "get_by_uniform_number" do
     context "引数に18を指定" do
-      it "「菅野 智之」が返ること" do
-        expect(@dragons.name_by_uniform_number("18")).to(eq "菅野 智之")
+      it "「梅津 晃大」が返ること" do
+        expect(@dragons.name_by_uniform_number("18")).to(eq "梅津 晃大")
       end
     end
     context "引数に50を指定" do
-      it "「山本祐大」が返ること" do
-        expect(@dragons.name_by_uniform_number("50")).to(eq "オコエ 瑠偉")
+      it "「清水 達也」が返ること" do
+        expect(@dragons.name_by_uniform_number("50")).to(eq "清水 達也")
       end
     end
     context "引数に1000を指定" do
