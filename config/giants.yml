@@ -1,0 +1,525 @@
+1:
+  name_ja: 大勢
+  name_en: TAISEI OTA
+  uniform_number: '15'
+  position: pitcher
+2:
+  name_ja: 西舘 勇陽
+  name_en: YUHI NISHIDATE
+  uniform_number: '17'
+  position: pitcher
+3:
+  name_ja: 菅野 智之
+  name_en: TOMOYUKI SUGANO
+  uniform_number: '18'
+  position: pitcher
+4:
+  name_ja: 山﨑 伊織
+  name_en: IORI YAMASAKI
+  uniform_number: '19'
+  position: pitcher
+5:
+  name_ja: 戸郷 翔征
+  name_en: SHOSEI TOGO
+  uniform_number: '20'
+  position: pitcher
+6:
+  name_ja: 今村 信貴
+  name_en: NOBUTAKA IMAMURA
+  uniform_number: '26'
+  position: pitcher
+7:
+  name_ja: 高橋 礼
+  name_en: REI TAKAHASHI
+  uniform_number: '28'
+  position: pitcher
+8:
+  name_ja: グリフィン
+  name_en: FOSTER GRIFFIN
+  uniform_number: '29'
+  position: pitcher
+9:
+  name_ja: 近藤 大亮
+  name_en: TAISUKE KONDOH
+  uniform_number: '30'
+  position: pitcher
+10:
+  name_ja: 赤星 優志
+  name_en: YUJI AKAHOSHI
+  uniform_number: '31'
+  position: pitcher
+11:
+  name_ja: 鈴木 康平
+  name_en: KOHEI SUZUKI
+  uniform_number: '32'
+  position: pitcher
+12:
+  name_ja: ケラー
+  name_en: KYLE KELLER
+  uniform_number: '33'
+  position: pitcher
+13:
+  name_ja: 馬場 皐輔
+  name_en: KOSUKE BABA
+  uniform_number: '36'
+  position: pitcher
+14:
+  name_ja: 中川 皓太
+  name_en: KOTA NAKAGAWA
+  uniform_number: '41'
+  position: pitcher
+15:
+  name_ja: 畠 世周
+  name_en: SEISHU HATAKE
+  uniform_number: '45'
+  position: pitcher
+16:
+  name_ja: 又木 鉄平
+  name_en: TEPPEI MATAKI
+  uniform_number: '46'
+  position: pitcher
+17:
+  name_ja: 森田 駿哉
+  name_en: SHUNYA MORITA
+  uniform_number: '47'
+  position: pitcher
+18:
+  name_ja: 田中 千晴
+  name_en: CHIHARU TANAKA
+  uniform_number: '48'
+  position: pitcher
+19:
+  name_ja: バルドナード
+  name_en: ALBERTO BALDONADO
+  uniform_number: '49'
+  position: pitcher
+20:
+  name_ja: 伊藤 優輔
+  name_en: YUSUKE ITOH
+  uniform_number: '52'
+  position: pitcher
+21:
+  name_ja: 高梨 雄平
+  name_en: YUHEI TAKANASHI
+  uniform_number: '53'
+  position: pitcher
+22:
+  name_ja: 直江 大輔
+  name_en: DAISUKE NAOE
+  uniform_number: '54'
+  position: pitcher
+23:
+  name_ja: 石田 隼都
+  name_en: HAYATO ISHITA
+  uniform_number: '56'
+  position: pitcher
+24:
+  name_ja: 髙橋 優貴
+  name_en: YUKI TAKAHASHI
+  uniform_number: '57'
+  position: pitcher
+25:
+  name_ja: 船迫 大雅
+  name_en: HIROMASA FUNABASAMA
+  uniform_number: '58'
+  position: pitcher
+26:
+  name_ja: 横川 凱
+  name_en: KAI YOKOGAWA
+  uniform_number: '62'
+  position: pitcher
+27:
+  name_ja: 泉 圭輔
+  name_en: KEISUKE IZUMI
+  uniform_number: '63'
+  position: pitcher
+28:
+  name_ja: 大江 竜聖
+  name_en: RYUSEI OHE
+  uniform_number: '64'
+  position: pitcher
+29:
+  name_ja: メンデス
+  name_en: YOHANDER MENDEZ
+  uniform_number: '65'
+  position: pitcher
+30:
+  name_ja: 平内 龍太
+  name_en: RYUTA HEINAI
+  uniform_number: '66'
+  position: pitcher
+31:
+  name_ja: 代木 大和
+  name_en: YAMATO SHIROKI
+  uniform_number: '68'
+  position: pitcher
+32:
+  name_ja: 山田 龍聖
+  name_en: RYUSEI YAMADA
+  uniform_number: '90'
+  position: pitcher
+33:
+  name_ja: 堀田 賢慎
+  name_en: KENSHIN HOTTA
+  uniform_number: '91'
+  position: pitcher
+34:
+  name_ja: 松井 颯
+  name_en: HAYATE MATSUI
+  uniform_number: '93'
+  position: pitcher
+35:
+  name_ja: 菊地 大稀
+  name_en: TAIKI KIKUCHI
+  uniform_number: '96'
+  position: pitcher
+36:
+  name_ja: 井上 温大
+  name_en: HARUTO INOUE
+  uniform_number: '97'
+  position: pitcher
+37:
+  name_ja: 京本 眞
+  name_en: MAKOTO KYOMOTO
+  uniform_number: '99'
+  position: pitcher
+38:
+  name_ja: 笠島 尚樹
+  name_en: NAOKI KASASHIMA
+  uniform_number: '011'
+  position: pitcher
+39:
+  name_ja: 三浦 克也
+  name_en: KATSUNARI MIURA
+  uniform_number: '012'
+  position: pitcher
+40:
+  name_ja: 川嵜 陽仁
+  name_en: HARUTO KAWASAKI
+  uniform_number: '015'
+  position: pitcher
+41:
+  name_ja: 千葉 隆広
+  name_en: TAKAHIRO CHIBA
+  uniform_number: '016'
+  position: pitcher
+42:
+  name_ja: 木下 幹也
+  name_en: MOTOYA KINOSHITA
+  uniform_number: '018'
+  position: pitcher
+43:
+  name_ja: 園田 純規
+  name_en: ATSUKI SONODA
+  uniform_number: '019'
+  position: pitcher
+44:
+  name_ja: 戸田 懐生
+  name_en: NATSUKI TODA
+  uniform_number: '020'
+  position: pitcher
+45:
+  name_ja: 小沼 健太
+  name_en: KENTA ONUMA
+  uniform_number: '021'
+  position: pitcher
+46:
+  name_ja: 田村 朋輝
+  name_en: TOMOKI TAMURA
+  uniform_number: '023'
+  position: pitcher
+47:
+  name_ja: 吉村 優聖歩
+  name_en: YUSEFU YOSHIMURA
+  uniform_number: '026'
+  position: pitcher
+48:
+  name_ja: 富田 龍
+  name_en: RYU TOMIDA
+  uniform_number: '028'
+  position: pitcher
+49:
+  name_ja: 山﨑 友輔
+  name_en: YUSUKE YAMASAKI
+  uniform_number: '030'
+  position: pitcher
+50:
+  name_ja: 森本 哲星
+  name_en: TESSEI MORIMOTO
+  uniform_number: '034'
+  position: pitcher
+51:
+  name_ja: ルシアーノ
+  name_en: ELVIS LUCIANO
+  uniform_number: '035'
+  position: pitcher
+52:
+  name_ja: 黄 錦豪
+  name_en: CHIN-HAO HUANG
+  uniform_number: '041'
+  position: pitcher
+53:
+  name_ja: 鴨打 瑛二
+  name_en: EIJI KAMOUCHI
+  uniform_number: '047'
+  position: pitcher
+54:
+  name_ja: 花田 侑樹
+  name_en: YUKI HANADA
+  uniform_number: '063'
+  position: pitcher
+55:
+  name_ja: 小林 誠司
+  name_en: SEIJI KOBAYASHI
+  uniform_number: '22'
+  position: catcher
+56:
+  name_ja: 大城 卓三
+  name_en: TAKUMI OHSHIRO
+  uniform_number: '24'
+  position: catcher
+57:
+  name_ja: 岸田 行倫
+  name_en: YUKINORI KISHIDA
+  uniform_number: '27'
+  position: catcher
+58:
+  name_ja: 郡 拓也
+  name_en: TAKUYA KOHRI
+  uniform_number: '37'
+  position: catcher
+59:
+  name_ja: 山瀬 慎之助
+  name_en: SHINNOSUKE YAMASE
+  uniform_number: '67'
+  position: catcher
+60:
+  name_ja: 喜多 隆介
+  name_en: RYUSUKE KITA
+  uniform_number: '94'
+  position: catcher
+61:
+  name_ja: 坂本 勇人
+  name_en: HAYATO SAKAMOTO
+  uniform_number: '006'
+  position: catcher
+62:
+  name_ja: 大津 綾也
+  name_en: RYOYA OHTSU
+  uniform_number: '010'
+  position: catcher
+63:
+  name_ja: 亀田 啓太
+  name_en: KEITA KAMEDA
+  uniform_number: '022'
+  position: catcher
+64:
+  name_ja: 前田 研輝
+  name_en: KENKI MAEDA
+  uniform_number: '024'
+  position: catcher
+65:
+  name_ja: 萩原 哲
+  name_en: TETSU HAGIWARA
+  uniform_number: '069'
+  position: catcher
+66:
+  name_ja: 湯浅 大
+  name_en: DAI YUASA
+  uniform_number: '00'
+  position: infielder
+67:
+  name_ja: 増田 大輝
+  name_en: DAIKI MASUDA
+  uniform_number: '0'
+  position: infielder
+68:
+  name_ja: 吉川 尚輝
+  name_en: NAOKI YOSHIKAWA
+  uniform_number: '2'
+  position: infielder
+69:
+  name_ja: 門脇 誠
+  name_en: MAKOTO KADOWAKI
+  uniform_number: '5'
+  position: infielder
+70:
+  name_ja: 坂本 勇人
+  name_en: HAYATO SAKAMOTO
+  uniform_number: '6'
+  position: infielder
+71:
+  name_ja: 岡本 和真
+  name_en: KAZUMA OKAMOTO
+  uniform_number: '25'
+  position: infielder
+72:
+  name_ja: 泉口 友汰
+  name_en: YUTA IZUGUCHI
+  uniform_number: '35'
+  position: infielder
+73:
+  name_ja: モンテス
+  name_en: COCO MONTES
+  uniform_number: '39'
+  position: infielder
+74:
+  name_ja: 中山 礼都
+  name_en: RAITO NAKAYAMA
+  uniform_number: '40'
+  position: infielder
+75:
+  name_ja: 秋広 優人
+  name_en: YUTO AKIHIRO
+  uniform_number: '55'
+  position: infielder
+76:
+  name_ja: 菊田 拡和
+  name_en: HIROKAZU KIKUTA
+  uniform_number: '60'
+  position: infielder
+77:
+  name_ja: 増田 陸
+  name_en: RIKU MASUDA
+  uniform_number: '61'
+  position: infielder
+78:
+  name_ja: 中田 歩夢
+  name_en: AYUMU NAKATA
+  uniform_number: '95'
+  position: infielder
+79:
+  name_ja: ウレーニャ
+  name_en: ESTAMY URENA
+  uniform_number: '98'
+  position: infielder
+80:
+  name_ja: 加藤 廉
+  name_en: REN KATOH
+  uniform_number: '001'
+  position: infielder
+81:
+  name_ja: 村山 源
+  name_en: GEN MURAYAMA
+  uniform_number: '004'
+  position: infielder
+82:
+  name_ja: 田上 優弥
+  name_en: YUYA TANOUE
+  uniform_number: '005'
+  position: infielder
+83:
+  name_ja: 宇都宮 葵星
+  name_en: KISARA UTSUNOMIYA
+  uniform_number: '007'
+  position: infielder
+84:
+  name_ja: 相澤 白虎
+  name_en: HAKUTO AIZAWA
+  uniform_number: '008'
+  position: infielder
+85:
+  name_ja: 岡本 大翔
+  name_en: HIROTO OKAMOTO
+  uniform_number: '025'
+  position: infielder
+86:
+  name_ja: 北村 流音
+  name_en: RIO KITAMURA
+  uniform_number: '027'
+  position: infielder
+87:
+  name_ja: 長野 久義
+  name_en: HISAYOSHI CHONO
+  uniform_number: '7'
+  position: outfielder
+88:
+  name_ja: 丸 佳浩
+  name_en: YOSHIHIRO MARU
+  uniform_number: '8'
+  position: outfielder
+89:
+  name_ja: 萩尾 匡也
+  name_en: MASAYA HAGIO
+  uniform_number: '12'
+  position: outfielder
+90:
+  name_ja: 梶谷 隆幸
+  name_en: TAKAYUKI KAJITANI
+  uniform_number: '13'
+  position: outfielder
+91:
+  name_ja: 立岡 宗一郎
+  name_en: SOICHIRO TATEOKA
+  uniform_number: '23'
+  position: outfielder
+92:
+  name_ja: 岡田 悠希
+  name_en: YUKI OKADA
+  uniform_number: '38'
+  position: outfielder
+93:
+  name_ja: ヘルナンデス
+  name_en: ELIER HERNANDEZ
+  uniform_number: '42'
+  position: outfielder
+94:
+  name_ja: 重信 慎之介
+  name_en: SHINNOSUKE SHIGENOBU
+  uniform_number: '43'
+  position: outfielder
+95:
+  name_ja: 佐々木 俊輔
+  name_en: SHUNSUKE SASAKI
+  uniform_number: '44'
+  position: outfielder
+96:
+  name_ja: オコエ 瑠偉
+  name_en: LOUIS OKOYE
+  uniform_number: '50'
+  position: outfielder
+97:
+  name_ja: 浅野 翔吾
+  name_en: SHOGO ASANO
+  uniform_number: '51'
+  position: outfielder
+98:
+  name_ja: 若林 楽人
+  name_en: GAKUTO WAKABAYASHI
+  uniform_number: '59'
+  position: outfielder
+99:
+  name_ja: 鈴木 大和
+  name_en: YAMATO SUZUKI
+  uniform_number: '003'
+  position: outfielder
+100:
+  name_ja: 笹原 操希
+  name_en: MISAKI SASAHARA
+  uniform_number: '009'
+  position: outfielder
+101:
+  name_ja: ティマ
+  name_en: JULIAN TIMA
+  uniform_number: '013'
+  position: outfielder
+102:
+  name_ja: 三塚 琉生
+  name_en: RUI MITSUKA
+  uniform_number: '031'
+  position: outfielder
+103:
+  name_ja: 平山 功太
+  name_en: KOTA HIRAYAMA
+  uniform_number: '033'
+  position: outfielder
+104:
+  name_ja: 大城 元
+  name_en: GEN OHSHIRO
+  uniform_number: '044'
+  position: outfielder
+105:
+  name_ja: 舟越 秀虎
+  name_en: HIDETORA FUNAKOSHI
+  uniform_number: '051'
+  position: outfielder
